@@ -23,3 +23,5 @@ lib*.a
 /.direnv/
 
 *.code-workspace
+
+/docs-tmp
